@@ -1,1 +1,1 @@
-# UI_example
+# Project Object Model
