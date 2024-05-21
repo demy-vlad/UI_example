@@ -6,7 +6,6 @@ class AuthorizationPageNav(SeleniumBase):
     """AuthorizationPageNav."""
 
     def __init__(self, driver):
-        super().__init__(driver)
         self.driver = driver
         self.__user_name = "#i0116"
         self.__password = "#i0118"
